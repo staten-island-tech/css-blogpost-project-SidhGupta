@@ -7,6 +7,9 @@ h1 {
     text-align: center;
     font-size: 42px;
     color: rgb(17, 51, 247);
+    font-family: "Rye", serif;
+    font-weight: 400;
+    font-style: normal;
 }
 
 /*
@@ -24,8 +27,17 @@ li {
     */
 
 .blog {
-    text-align: cneter;
-    width:300px;
-    height:200px;
-    background-color: bisque
+    margin: 0 auto;
+    text-align: center;
+    width:425px;
+    height:500px;
+    background-color: rgb(157, 191, 255);
+    border: outset 10px;
+    border-color: rgb(7, 23, 110);
+    
+}
+
+.image  {
+    width: 425;
+    height: 300px;
 }

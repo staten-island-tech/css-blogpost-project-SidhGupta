@@ -37,7 +37,19 @@ li {
     
 }
 
-.image  {
-    width: 425;
+#image  {
+    width: 100%;
     height: 300px;
+}
+
+#nothing  {
+    margin: 0 auto;
+    text-align: center;
+    width:500px;
+    height:500px;s
+    background-color: rgb(157, 191, 255);
+    border: outset 10px;
+    border-color: rgb(7, 23, 110);
+
+
 }
